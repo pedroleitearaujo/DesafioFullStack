@@ -1,0 +1,1 @@
+Necessário criar table (banco.sql ) de preferencia com a base de dados com nome angularjs, caso não com o nome angularjs mudar na pasta PHP (fetch_data.php e insert.php ) aonde está "angularjs" colocar a base de dados com o nome criado/escolhido.
